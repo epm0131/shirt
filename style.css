@@ -60,7 +60,6 @@ display: inline-block;
   box-sizing: border-box;
   border-left: none;
   border-top: none;
-
 }
 
 .firstIconBox {
@@ -71,6 +70,12 @@ display: inline-block;
 
 }
 
+/*a.fa {
+  font-size: 1em;
+  color: #58d3f7;
+  transition: all 0.3s linear;
+}
+
 
 a.fa:hover {
   color: #999999;
@@ -79,18 +84,19 @@ a.fa:hover {
 
 }
 
-nav:hover ul.dropdown {
+/*nav:hover ul.dropdown {
   height: 3em;
-}
+}*/
 
-nav ul.dropdown {
+/*nav ul.dropdown {
   height: 0;
-  overflow: hidden;
+  /*overflow: hidden;
   transition: all 0.5s linear;
   z-index: 1000px
-}
+}*/
 
-.tooltip {
+
+/*.tooltip {
     position: relative;
     display: inline-block;
     border-bottom: 1px dotted black;
@@ -114,7 +120,7 @@ nav ul.dropdown {
 
 .tooltip:hover .tooltiptext {
     visibility: visible;
-}
+}*/
 
 
 .bottomDiv {
